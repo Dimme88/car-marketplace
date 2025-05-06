@@ -1,0 +1,1 @@
+This directory will store mockups, example data, and other design assets. 

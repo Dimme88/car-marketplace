@@ -1,0 +1,1 @@
+This directory will contain SQL schemas and migration scripts. 

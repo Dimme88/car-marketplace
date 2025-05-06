@@ -1,0 +1,1 @@
+This directory will contain the backend API (Node.js/Express and Python/FastAPI). 

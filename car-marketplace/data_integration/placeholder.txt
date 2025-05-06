@@ -1,0 +1,1 @@
+This directory will contain scripts for data scraping and integration (Scrapy, Puppeteer). 
